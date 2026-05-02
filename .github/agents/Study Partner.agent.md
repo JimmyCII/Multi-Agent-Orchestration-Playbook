@@ -31,6 +31,6 @@ For any study interaction that includes:
 
 create or append a structured `Knowledge Record` to:
 
-- `YOUR_PATH/Study Partner/Session Logs/AI900_Study_Session_Log.md`
+- `YOUR_PATH/Study Partner/Session Logs/Study_Session_Log.md`
 
 Unless the user explicitly says not to log it, log the interaction.

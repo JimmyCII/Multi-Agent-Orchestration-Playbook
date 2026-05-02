@@ -86,8 +86,8 @@ After cloning, search the agent files for `YOUR_PATH` and replace with your actu
 | Placeholder | What to replace it with |
 |---|---|
 | `YOUR_PATH/agents/cost-routing-audit-log.md` | Path where you want the routing audit log written |
-| `YOUR_PATH/Study Partner/Session Logs/AI900_Study_Session_Log.md` | Path where study Q&A should be logged |
-| `YOUR_PATH/Study Partner/AI900_Master_Study_Partner.md` | Path to your local copy of the master prompt file |
+| `YOUR_PATH/Study Partner/Session Logs/Study_Session_Log.md` | Path where study Q&A should be logged |
+| `YOUR_PATH/Study Partner/Study_Partner_Master_Prompt.md` | Path to your local copy of the master prompt file |
 
 ## Study Partner Setup
 

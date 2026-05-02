@@ -59,7 +59,7 @@ Study-intent keywords (any strong match is enough):
 - reinforcement learning
 
 When routed to `Study Partner`, that agent owns structured knowledge logging in:
-- `YOUR_PATH/Study Partner/Session Logs/AI900_Study_Session_Log.md`
+- `YOUR_PATH/Study Partner/Session Logs/Study_Session_Log.md`
 
 Still append a routing audit row in:
 - `YOUR_PATH/agents/cost-routing-audit-log.md`
