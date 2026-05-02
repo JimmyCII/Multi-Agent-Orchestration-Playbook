@@ -1,0 +1,22 @@
+# OS
+.DS_Store
+Thumbs.db
+
+# VS Code workspace settings (keep extensions.json if you want to recommend extensions, but exclude personal settings)
+.vscode/settings.json
+.vscode/launch.json
+*.code-workspace
+
+# Personal audit log entries — the template is committed; your live log data is local
+# Uncomment the line below if you do NOT want to commit audit history:
+# .github/agents/cost-routing-audit-log.md
+
+# Study session logs (personal data — do not commit)
+Study Partner/
+*_Study_Session_Log.md
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.env
